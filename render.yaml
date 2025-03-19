@@ -6,4 +6,4 @@ services:
     startCommand: npm run preview
     envVars:
       - key: VITE_API_URL
-        value: https://ecommerce-nw38.onrender.com
+        value: https://ecommerce-nw38.onrender.com/api
