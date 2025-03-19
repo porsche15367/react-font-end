@@ -1,7 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { ProductCard } from "@/components/ProductCard";
+import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Heart, ShoppingCart } from "lucide-react";
 
 // This would come from your API in a real app
